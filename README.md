@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Researcher in the field of business information systems. Expert in process and data technologies and their application for Sustainable Development.
+I'm a researcher in the field of business information systems. My expertise is in process and data technologies and their application for Sustainable Development.
 <!--
 **andrfr/andrfr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
